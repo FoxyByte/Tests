@@ -15,10 +15,4 @@ for wynik in liczby:
 Mini = dict(zip(daty, wartosc))
 print(Mini)
 
-def licznik(i):
-    return print(Mini[i])
-    for i in Mini:
-
-
-licznik("07.03.1979")
 
